@@ -10,3 +10,5 @@
 [Lecture 1](https://colab.research.google.com/drive/1dessi5cj9aB_SETffMiVFGqbJ1lYLTh7)
 
 [Lecture 2](https://colab.research.google.com/drive/1vZ2CcNJG1BY6ZOlA8i5ZH38YvU7q7hsI?usp=sharing)
+
+[Lecture 3](https://colab.research.google.com/drive/1-q4EfZQaIHi1OtWSfdACEV0I_Ni6-UOw?usp=sharing)
