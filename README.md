@@ -12,3 +12,6 @@
 [Lecture 2](https://colab.research.google.com/drive/1vZ2CcNJG1BY6ZOlA8i5ZH38YvU7q7hsI?usp=sharing)
 
 [Lecture 3](https://colab.research.google.com/drive/1-q4EfZQaIHi1OtWSfdACEV0I_Ni6-UOw?usp=sharing)
+
+## Exam
+[Link to sign up for the exam](https://docs.google.com/document/d/11Dqd8FPMNfHSnkPlxpy5f7QeZaQTA_Dfuy3ON4A2DnI/edit?usp=sharing)
