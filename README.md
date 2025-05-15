@@ -13,5 +13,7 @@
 
 [Lecture 3](https://colab.research.google.com/drive/1-q4EfZQaIHi1OtWSfdACEV0I_Ni6-UOw?usp=sharing)
 
+[Lecture 4](https://colab.research.google.com/drive/1uMjlfV1GPue-8SFQNHri_6nJdlRg2nut?usp=sharing)
+
 ## Exam
 [Link to sign up for the exam](https://docs.google.com/document/d/11Dqd8FPMNfHSnkPlxpy5f7QeZaQTA_Dfuy3ON4A2DnI/edit?usp=sharing)
