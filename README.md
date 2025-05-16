@@ -15,8 +15,6 @@
 
 [Lecture 4](https://colab.research.google.com/drive/1uMjlfV1GPue-8SFQNHri_6nJdlRg2nut?usp=sharing)
 
-[Exercise old](https://colab.research.google.com/drive/1_YQvQLIeRZzA18SNRXesAb81S6ofXB9C?usp=sharing)
-
 [Exercise](https://colab.research.google.com/drive/1bZsmKpwvqTVmCSzNpjTzlcQghwI8AE-A?usp=sharing)
 
 ## Exam
