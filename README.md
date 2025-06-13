@@ -1,4 +1,12 @@
-# Advanced Statistical Methods for Physics
+# Statistical Methods for Physics
+
+This class is an introduction to:
+- the Bayesian interpretation of probability;
+- the basics of Bayesian statistics applied to parametric model inference, including model selection and hierarchical inference of hypermodels;
+- best practices in data analysis, such as properly using a validation set to assess model performance;
+- tools for data analysis, including libraries for parameter estimation and machine learning.
+
+All topics are presented through simple examples designed to illustrate the fundamental principles behind each concept.
 
 ## Resources
 [Statistics, Data Mining, and Machine Learning in Astronomy](https://press.princeton.edu/books/hardcover/9780691198309/statistics-data-mining-and-machine-learning-in-astronomy-pdf): Texbook with theory, examples, and code snippets in Python. Good if you want to learn by hands-on problems.
