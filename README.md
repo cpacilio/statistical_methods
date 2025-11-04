@@ -28,6 +28,3 @@ All topics are presented through simple examples designed to illustrate the fund
 [Lecture 5](https://colab.research.google.com/drive/19MAIk_t97TzB5i6RYjI-vRzp4YQqgXtk?usp=sharing) **Training, validating, and testing:** test set; validation set; K-fold cross-validation; application to least squares regression; maximum-likelihood optimization of parametric models with the `sklearn` library; weight regularization; kernel trick and kernel ridge regression; gaussian process regression.
 
 [Lecture 6](https://colab.research.google.com/drive/1vR8uXuYnS4hgjphoB5O_4ZiW0ktw2XHF?usp=sharing) **Miscellanea:** the Fisher information matrix; p-p plots as a diagnostic of a stochastic sampler; Monte-Carlo integration.
-
-## Exam
-[Link to sign up for the exam](https://docs.google.com/document/d/11Dqd8FPMNfHSnkPlxpy5f7QeZaQTA_Dfuy3ON4A2DnI/edit?usp=sharing)
